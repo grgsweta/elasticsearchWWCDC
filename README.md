@@ -7,3 +7,8 @@ Using Kibana for data visualization
 #Need
 elastisearch
 kibana
+
+
+https://elasticsearch-py.readthedocs.io/en/master/
+
+https://www.elastic.co/downloads/kibana/
